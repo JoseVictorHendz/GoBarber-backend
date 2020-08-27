@@ -13,6 +13,7 @@ Indice
     * [Prettier](#prettier)
     * [Eslint](#eslint)
     * [Docker](#docker)
+    * [bcryptjs](#bcryptjs)
 
 Descrição do Projeto
 =
@@ -29,3 +30,4 @@ Stack de tecnologias utilizadas
 ## Prettier
 ## Eslint
 ## Docker
+## bcryptjs
