@@ -4,6 +4,7 @@ Indice
 =
   * [Descrição do projeto](#Descrição-do-projeto)
   * [Stack de tecnologias Utilizadas](#Stack-de-tecnologias-Utilizadas)
+    * [Nosejs](#Nosejs)
     * [Yarn](#yarn)
     * [Editorconfig](#editorconfig)
     * [Typescript](#typescript)
@@ -13,7 +14,8 @@ Indice
     * [Prettier](#prettier)
     * [Eslint](#eslint)
     * [Docker](#docker)
-    * [bcryptjs](#bcryptjs)
+    * [Bcryptjs](#bcryptjs)
+    * [JWT](#JWT)
 
 Descrição do Projeto
 =
@@ -21,6 +23,7 @@ O projeto consiste uma aplicação para barbearías e possui tanto a versão mob
 
 Stack de tecnologias utilizadas
 =
+## Nosejs
 ## Yarn
 ## Editorconfig
 ## Typescript
@@ -30,4 +33,5 @@ Stack de tecnologias utilizadas
 ## Prettier
 ## Eslint
 ## Docker
-## bcryptjs
+## Bcryptjs
+## JWT
