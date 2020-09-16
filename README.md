@@ -3,7 +3,7 @@
 Indice
 =
   * [Descrição do projeto](#Descrição-do-projeto)
-  * [Stack de tecnologias Utilizadas](#Stack-de-tecnologias-Utilizadas)
+  * [Dependencias](#Dependencias)
     * [Nosejs](#Nosejs)
     * [Yarn](#yarn)
     * [Editorconfig](#editorconfig)
@@ -16,12 +16,14 @@ Indice
     * [Docker](#docker)
     * [Bcryptjs](#bcryptjs)
     * [JWT](#JWT)
+    * [Multer](#multer)
+
 
 Descrição do Projeto
 =
 O projeto consiste uma aplicação para barbearías e possui tanto a versão mobile para clientes quanto web para barbeiros, ela está semdp desenvolvida através do bootcamp criado pela plataforma de educação [rocketseat](https://rocketseat.com.br)
 
-Stack de tecnologias utilizadas
+Dependencias
 =
 ## Nosejs
 ## Yarn
@@ -35,3 +37,4 @@ Stack de tecnologias utilizadas
 ## Docker
 ## Bcryptjs
 ## JWT
+## Multer
